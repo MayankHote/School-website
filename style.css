@@ -1,0 +1,12 @@
+#marquee {
+    background-color:lightgreen;
+    color: black;
+}
+.line{
+ width: 50px ;  
+    height:7px;
+    margin: 5px auto;
+background-color: black;
+
+
+}
